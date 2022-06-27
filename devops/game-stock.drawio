@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T07:09:04.374Z" agent="5.0 (X11)" etag="iUHuNE9e8RxxqZacGuWo" version="20.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-27T07:13:02.817Z" agent="5.0 (X11)" etag="h-C2G1AU9D2z-aWkJpqc" version="20.0.3" type="github" pages="4">
   <diagram id="sQK1rTtqv5rbWFowfRSD" name="DevOps">
     <mxGraphModel dx="1038" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -228,7 +228,7 @@
           <mxGeometry x="410" y="540" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2yC9SdHh8hurdePPnkhI-1" value="&lt;h1&gt;Application Scaling 应用和资源自动扩展&lt;br&gt;&lt;/h1&gt;&lt;p&gt;基于公有云资源和自动编排实现自动扩展，基于kubernetes实现应用和负载的自动扩展&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#7EA6E0;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="680" height="80" as="geometry" />
+          <mxGeometry x="40" y="40" width="760" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -272,7 +272,7 @@
           <mxGeometry x="115" y="235" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zjgwLuNw4xFXAY5_9MK--1" value="&lt;h1&gt;MicroService Architecture 微服务技术架构&lt;br&gt;&lt;/h1&gt;&lt;p&gt;基于Java开发框架的微服务技术架构&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#7EA6E0;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="680" height="80" as="geometry" />
+          <mxGeometry x="40" y="40" width="520" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -358,7 +358,7 @@
           <mxGeometry x="78" y="200" width="240" height="400" as="geometry" />
         </mxCell>
         <mxCell id="edB-AuA8gOr0otV2MHnj-1" value="&lt;h1&gt;Dual-Live In-City 同城多活&lt;br&gt;&lt;/h1&gt;&lt;p&gt;同城近邻区域双活多活模式&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#7EA6E0;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="680" height="80" as="geometry" />
+          <mxGeometry x="40" y="40" width="600" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
