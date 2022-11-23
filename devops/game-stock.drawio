@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T07:13:02.817Z" agent="5.0 (X11)" etag="h-C2G1AU9D2z-aWkJpqc" version="20.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-23T03:50:06.356Z" agent="5.0 (X11; Ubuntu)" etag="BPKthn2SsnA40l80p7B9" version="20.6.0" type="github" pages="5">
   <diagram id="sQK1rTtqv5rbWFowfRSD" name="DevOps">
-    <mxGraphModel dx="1038" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,7 +82,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Sk3SntLdg2Qn3jcV85j4" name="HPA">
-    <mxGraphModel dx="1038" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,14 +227,14 @@
         <mxCell id="2NIMT9-MlzPeakHy4V3Z-1" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;fillColor=#EDEDED;gradientColor=none;gradientDirection=west;" parent="1" vertex="1">
           <mxGeometry x="410" y="540" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2yC9SdHh8hurdePPnkhI-1" value="&lt;h1&gt;Application Scaling 应用和资源自动扩展&lt;br&gt;&lt;/h1&gt;&lt;p&gt;基于公有云资源和自动编排实现自动扩展，基于kubernetes实现应用和负载的自动扩展&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#7EA6E0;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2yC9SdHh8hurdePPnkhI-1" value="&lt;h1&gt;Application Scaling 应用和资源自动扩展&lt;br&gt;&lt;/h1&gt;&lt;p&gt;基于公有云资源和自动编排实现自动扩展，基于kubernetes实现应用和负载的自动扩展&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#7EA6E0;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="760" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="wvDQbkCvtmwPCXcF1pS3" name="MicroService">
-    <mxGraphModel dx="1038" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,14 +271,14 @@
         <mxCell id="BocwoUOPCGG-07_ND_Cm-9" value="&lt;div&gt;定时调度/计划任务&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="115" y="235" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zjgwLuNw4xFXAY5_9MK--1" value="&lt;h1&gt;MicroService Architecture 微服务技术架构&lt;br&gt;&lt;/h1&gt;&lt;p&gt;基于Java开发框架的微服务技术架构&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#7EA6E0;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zjgwLuNw4xFXAY5_9MK--1" value="&lt;h1&gt;MicroService Architecture 微服务技术架构&lt;br&gt;&lt;/h1&gt;&lt;p&gt;基于Java开发框架的微服务技术架构&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#7EA6E0;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="520" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="A81SncO9KEkFtXXvyf2d" name="Region">
-    <mxGraphModel dx="1038" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -357,8 +357,58 @@
         <mxCell id="sU5FvFeqeSks7XALSstK-18" value="Zone 1" style="swimlane;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#7EA6E0;fillColor=#F5F5F5;gradientColor=none;gradientDirection=west;" parent="1" vertex="1">
           <mxGeometry x="78" y="200" width="240" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="edB-AuA8gOr0otV2MHnj-1" value="&lt;h1&gt;Dual-Live In-City 同城多活&lt;br&gt;&lt;/h1&gt;&lt;p&gt;同城近邻区域双活多活模式&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#7EA6E0;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="edB-AuA8gOr0otV2MHnj-1" value="&lt;h1&gt;Dual-Live In-City 同城多活&lt;br&gt;&lt;/h1&gt;&lt;p&gt;同城近邻区域双活多活模式&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#7EA6E0;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="600" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VKOKfhnQkBYsiDH3cPAN" name="第 5 页">
+    <mxGraphModel dx="1233" dy="660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ei4evRYkhOmS4ATSmoZq-1" value="APP1 LBS" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#7EA6E0;fillColor=#F5F5F5;gradientColor=none;gradientDirection=west;" vertex="1" parent="1">
+          <mxGeometry x="118" y="287" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei4evRYkhOmS4ATSmoZq-2" value="APP2 LBS" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#7EA6E0;fillColor=#F5F5F5;gradientColor=none;gradientDirection=west;" vertex="1" parent="1">
+          <mxGeometry x="218" y="287" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei4evRYkhOmS4ATSmoZq-5" value="nginx WAF" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#7EA6E0;fillColor=#F5F5F5;gradientColor=none;gradientDirection=west;" vertex="1" parent="1">
+          <mxGeometry x="118" y="360" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei4evRYkhOmS4ATSmoZq-6" value="User Mod" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#7EA6E0;fillColor=#F5F5F5;gradientColor=none;gradientDirection=west;" vertex="1" parent="1">
+          <mxGeometry x="118" y="397" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei4evRYkhOmS4ATSmoZq-7" value="内网 LBS" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#7EA6E0;fillColor=#F5F5F5;gradientColor=none;gradientDirection=west;" vertex="1" parent="1">
+          <mxGeometry x="118" y="470" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei4evRYkhOmS4ATSmoZq-8" value="SchedulerX" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#7EA6E0;fillColor=#F5F5F5;gradientColor=none;gradientDirection=west;" vertex="1" parent="1">
+          <mxGeometry x="118" y="433" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei4evRYkhOmS4ATSmoZq-9" value="Redis（高可用）" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#7EA6E0;fillColor=#F5F5F5;gradientColor=none;gradientDirection=west;" vertex="1" parent="1">
+          <mxGeometry x="118" y="507" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei4evRYkhOmS4ATSmoZq-10" value="MySQL（高可用）" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#7EA6E0;fillColor=#F5F5F5;gradientColor=none;gradientDirection=west;" vertex="1" parent="1">
+          <mxGeometry x="118" y="543" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei4evRYkhOmS4ATSmoZq-11" value="业务应用部署集" style="swimlane;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#7EA6E0;fillColor=#F5F5F5;gradientColor=none;gradientDirection=west;" vertex="1" parent="1">
+          <mxGeometry x="98" y="320" width="200" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei4evRYkhOmS4ATSmoZq-12" value="Zone 1" style="swimlane;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#7EA6E0;fillColor=#F5F5F5;gradientColor=none;gradientDirection=west;" vertex="1" parent="1">
+          <mxGeometry x="78" y="120" width="242" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei4evRYkhOmS4ATSmoZq-3" value="公网 LBS" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#7EA6E0;fillColor=#F5F5F5;gradientColor=none;gradientDirection=west;" vertex="1" parent="Ei4evRYkhOmS4ATSmoZq-12">
+          <mxGeometry x="40" y="131" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei4evRYkhOmS4ATSmoZq-4" value="DNS" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#7EA6E0;fillColor=#F5F5F5;gradientColor=none;gradientDirection=west;" vertex="1" parent="Ei4evRYkhOmS4ATSmoZq-12">
+          <mxGeometry x="40" y="52" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei4evRYkhOmS4ATSmoZq-15" value="OSS" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#7EA6E0;fillColor=#F5F5F5;gradientColor=none;gradientDirection=west;" vertex="1" parent="Ei4evRYkhOmS4ATSmoZq-12">
+          <mxGeometry x="40" y="93" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ei4evRYkhOmS4ATSmoZq-16" value="CDN" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#7EA6E0;fillColor=#F5F5F5;gradientColor=none;gradientDirection=west;" vertex="1" parent="Ei4evRYkhOmS4ATSmoZq-12">
+          <mxGeometry x="140" y="93" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
